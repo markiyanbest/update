@@ -1,4 +1,5 @@
 {
+  "version": 18,
   "agent_url": "https://raw.githubusercontent.com/markiyanbest/update/main/RenderOptimizer.jar",
-  "agent_sha256": "86BB47EAF4399483985CE31B920618CE4F3209E07F4D259759507A9EF6E82B70"
+  "agent_sha256": "2663C8D872F74FABE02EC106CF479687B079BF739EE0FF553B42E3428DB92A79"
 }
