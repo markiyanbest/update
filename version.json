@@ -1,5 +1,7 @@
 {
-  "version": 612,
+  "version": 616,
   "agent_url": "https://raw.githubusercontent.com/markiyanbest/update/main/RenderOptimizer.jar",
-  "agent_sha256": "D5F75933F37BC44D5B94EB36D1040CC9015E21A2D89F7993A99CE9A8F5A9AED1"
+  "agent_sha256": "10D89F788D0EEC829ACAE3DCE82F7927CA1A37F071D915D575AFEAD579D4B8BA",
+  "launcher_url": "https://github.com/markiyanbest/update/releases/download/v616/Launcher.exe",
+  "launcher_sha256": "6A79028FB67BF1CAE88F044BB73ADD8D37A1134BFFDE2246F5DF229A94FEF7F7"
 }
