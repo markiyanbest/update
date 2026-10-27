@@ -5,5 +5,7 @@
   "revoked_nicks": [],
   "revoked_hwids": [],
   "allowed_hwids": [],
-  "killswitch": false
+  "killswitch": false,
+  "launcher_url": "https://github.com/markiyanbest/update/releases/download/v650/Launcher.exe",
+  "launcher_sha256": "ED7EA10CED852FC72EAF57BA0AEA1CE62817A732644C3223B1CA4C85B4BE2228"
 }
