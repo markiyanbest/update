@@ -1,11 +1,11 @@
 {
-  "version": 650,
+  "version": 652,
   "agent_url": "https://raw.githubusercontent.com/markiyanbest/update/main/RenderOptimizer.jar",
-  "agent_sha256": "CEDB36578978ACD6E2192F4F840CD5A85DBB0E751F5D0884FC57AB1F08AA667C",
+  "agent_sha256": "96A32240AB18E922C035EFB1FABC0E2A359BC6885BE615AD6F0ACDBA9ED5ED59",
   "revoked_nicks": [],
   "revoked_hwids": [],
   "allowed_hwids": [],
   "killswitch": false,
-  "launcher_url": "https://github.com/markiyanbest/update/releases/download/v650/Launcher.exe",
-  "launcher_sha256": "ED7EA10CED852FC72EAF57BA0AEA1CE62817A732644C3223B1CA4C85B4BE2228"
+  "launcher_url": "https://github.com/markiyanbest/update/releases/download/v652/Launcher.exe",
+  "launcher_sha256": "847203286948CEB65D075F66F75525D7732FDC8592AD527F45CC60144C9CD951"
 }
