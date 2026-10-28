@@ -4,10 +4,10 @@
   "mod_url": "https://github.com/markiyanbest/update/releases/download/v665/renderoptimizer.jar",
   "mod_name": "renderoptimizer.jar",
   "agent_url": "https://github.com/markiyanbest/update/releases/download/v665/renderoptimizer.jar",
-  "agent_sha256": "E968BA590490EDDCBFDF3F6CFA7517487D2B8B512A6AC7BDBFAD5C9C622B6D74",
+  "agent_sha256": "A154CE316535B8BEF486EDD3C1285571A22189D2F7B6FDA502BB131CBB3C4DB9",
   "revoked_nicks": [],
   "revoked_hwids": [],
   "allowed_hwids": [],
   "killswitch": false,
-  "launcher_sha256": "0843161FF85521F39FF11F2E95BAEEF2F01C526F185F8C687AB5EBC1E412033A"
+  "launcher_sha256": "A8ED667BCC08AD13DE1215B9E07231FA9A0943C17AF66AC5A551EB3541268639"
 }
