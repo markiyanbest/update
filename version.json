@@ -1,13 +1,13 @@
 {
-  "version": 665,
-  "launcher_url": "https://github.com/markiyanbest/update/releases/download/v665/Launcher.exe",
-  "mod_url": "https://github.com/markiyanbest/update/releases/download/v665/renderoptimizer.jar",
+  "version": 682,
+  "launcher_url": "https://github.com/markiyanbest/update/releases/download/v682/Launcher.exe",
+  "mod_url": "https://github.com/markiyanbest/update/releases/download/v682/renderoptimizer.jar",
   "mod_name": "renderoptimizer.jar",
-  "agent_url": "https://github.com/markiyanbest/update/releases/download/v665/renderoptimizer.jar",
-  "agent_sha256": "A154CE316535B8BEF486EDD3C1285571A22189D2F7B6FDA502BB131CBB3C4DB9",
+  "agent_url": "https://github.com/markiyanbest/update/releases/download/v682/renderoptimizer.jar",
+  "agent_sha256": "572EF4B986C440B3581811267DEE614AFD63696D33C6B28D0BCAEBEA8B339E77",
   "revoked_nicks": [],
   "revoked_hwids": [],
   "allowed_hwids": [],
   "killswitch": false,
-  "launcher_sha256": "A8ED667BCC08AD13DE1215B9E07231FA9A0943C17AF66AC5A551EB3541268639"
+  "launcher_sha256": "D64E2BA0D4510E66F8AD2BF63567AC5A9D84D82B09A2E1B94BEE2D5CD4F27EA7"
 }
