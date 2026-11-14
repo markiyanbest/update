@@ -1,13 +1,16 @@
 {
-  "version": 774,
-  "launcher_url": "https://github.com/markiyanbest/update/releases/download/v774/Launcher.exe",
+  "version": 845,
+  "launcher_url": "https://github.com/markiyanbest/update/releases/download/v845/Launcher.exe",
   "mod_url": "https://raw.githubusercontent.com/markiyanbest/update/main/RenderOptimizer.jar",
   "mod_name": "renderoptimizer.jar",
   "agent_url": "https://raw.githubusercontent.com/markiyanbest/update/main/RenderOptimizer.jar",
-  "agent_sha256": "57179A9ACB2FA87A5381BC3D566445E0F5E00CA9F73621C9C8AF983D0A6DB8DE",
+  "agent_sha256": "7CD9C808976523268945F6D2AC611C795EC752105FE52C2CBFCCE52C381786D3",
   "revoked_nicks": [],
   "revoked_hwids": [],
   "allowed_hwids": [],
   "killswitch": false,
-  "launcher_sha256": "073733CA615E27F8C2FC1EBB1CAE914B5ED2D0350F76AD6EB104C3BBCF9ACF66"
+  "manifest_schema": 1,
+  "launcher_sha256": "1DC5AADB7B1C3673723870B49BCE0F0BEBB47E41212EDA9AE05EAB356AB90011",
+  "signed_payload": "eyJhZ2VudF9zaGEyNTYiOiI3Q0Q5QzgwODk3NjUyMzI2ODk0NUY2RDJBQzYxMUM3OTVFQzc1MjEwNUZFNTJDMkNCRkNDRTUyQzM4MTc4NkQzIiwiYWdlbnRfdXJsIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hcmtpeWFuYmVzdC91cGRhdGUvbWFpbi9SZW5kZXJPcHRpbWl6ZXIuamFyIiwiYWxsb3dlZF9od2lkcyI6W10sImtpbGxzd2l0Y2giOmZhbHNlLCJsYXVuY2hlcl9zaGEyNTYiOiIxREM1QUFEQjdCMUMzNjczNzIzODcwQjQ5QkNFMEYwQkVCQjQ3RTQxMjEyRURBOUFFMDVFQUIzNTZBQjkwMDExIiwibGF1bmNoZXJfdXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL21hcmtpeWFuYmVzdC91cGRhdGUvcmVsZWFzZXMvZG93bmxvYWQvdjg0NS9MYXVuY2hlci5leGUiLCJtYW5pZmVzdF9zY2hlbWEiOjEsIm1vZF9uYW1lIjoicmVuZGVyb3B0aW1pemVyLmphciIsIm1vZF91cmwiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbWFya2l5YW5iZXN0L3VwZGF0ZS9tYWluL1JlbmRlck9wdGltaXplci5qYXIiLCJyZXZva2VkX2h3aWRzIjpbXSwicmV2b2tlZF9uaWNrcyI6W10sInZlcnNpb24iOjg0NX0=",
+  "signature": "f4Tq6ZcxwzQ0gDKlx3g3H83NnpAu0xV0niqx32lim1Y3qMsOLxRp+EZ62MSgsW3vCQ7V1ZSObiduzd+GQFCFSTSWe3iqw7pt8BVK4q9qJfon0QMMiz9fzoQJAos9VIWS+u7UBlRRDln6azh3q8M5Ip/1E1cjhmK2+fpsKjBwxElX2jx/cA+v8QNZJSC/OiORHYC/Fe2KertCiu8scYTb43RQVHf06tgemqfnDrup5UgPG5XY8+zI3jdNAm2jQTRr+yhRR/Vzzapgz+fG9Au8vKelNV1e8mgMggoGKxrt1PijhAVdae6gslbxWpfpnRjqn1BYCoQ5Eyr7qu9cSi/Ius2J4ObUASuumXGipbVABVLVrlOwTKEkOmoW3tFRYL+jxxTlL5d/eIanJDg1voWmVAlu5dfbgt0CCRhzs6CPfUldbd9x5+USLMbttb93enIRhN8mYYhUZSLknbJuazKV1WvuuLWm92BMOHSea0oSzBpRa0u15t+iwesMfBOccSnB"
 }
